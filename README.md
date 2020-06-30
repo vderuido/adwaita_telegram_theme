@@ -1,7 +1,7 @@
 # adwaita_telegram_theme
 Telegram Desktop Theme based on GNOME's Adwaita theme
 
-[Adwaita Telegram Desktop Theme preview](adwaita_theme.png)
+![Adwaita Telegram Desktop Theme preview](adwaita_theme.png)
 
 ## Español
 
